@@ -12,6 +12,8 @@ uv venv
 uv sync
 ```
 
+then create `.env` by the `.env.example`.
+
 ## Installation - Docker Server
 
 ```console
